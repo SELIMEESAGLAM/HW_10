@@ -1,0 +1,38 @@
+    1  ls
+    2  cd ..
+    3  ls
+    4  cd HW_10/
+    5  clone [200~https://github.com/SELIMEESAGLAM/HW_10.git~
+    6  clone https://github.com/SELIMEESAGLAM/HW_10.git
+    7  git init
+    8  git clone https://github.com/SELIMEESAGLAM/HW_10.git
+    9  touch text_ignore.txt
+   10  cd HW_10
+   11  touch text_ignore.txt
+   12  git add .
+   13  git commit -m "ilk versiyon"
+   14  tocuh main_test.txt
+   15  touch  main_test.txt
+   16  git add .
+   17  git commit -m "v2"
+   18  git branch
+   19  git branch develop
+   20  git checkout develop
+   21  touch develop_test.txt
+   22  git add .
+   23  git commit - m "v3"
+   24  git commit -m "v2"
+   25  git add .
+   26  gir status
+   27  git status
+   28  git commit -m "v3"
+   29  git checkout mail
+   30  git checkout main
+   31  git pull origin main
+   32  git checkout develop
+   33  git merge main
+   34  git log
+   35  cd Desktop/
+   36  cd HW_10/
+   37  cd HW_10/
+   38  history > command_list.csv
